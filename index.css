@@ -1,13 +1,17 @@
 html {
     font-size: 62.5%;
     overflow-x: hidden;
-
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     background: var(--bg-color);
     color: var(--text-color);
-
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 section {
